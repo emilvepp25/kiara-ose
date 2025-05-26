@@ -16,6 +16,10 @@
     "allowJs": true,
     "jsx": "react-jsx",
 
+    /* Type Checking */
+    /* Type Checking */
+    "types": [],
+
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
